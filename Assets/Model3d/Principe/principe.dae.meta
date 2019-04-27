@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: d5712e4dca10687419d682fce24ceff8
+timeCreated: 1520737568
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arms
+    100002: blue
+    100004: body
+    100006: Camera
+    100008: eyeballs
+    100010: head
+    100012: Lamp
+    100014: //RootNode
+    100016: pupils
+    100018: scarf
+    400000: arms
+    400002: blue
+    400004: body
+    400006: Camera
+    400008: eyeballs
+    400010: head
+    400012: Lamp
+    400014: //RootNode
+    400016: pupils
+    400018: scarf
+    2000000: Camera
+    2300000: arms
+    2300002: blue
+    2300004: body
+    2300006: eyeballs
+    2300008: head
+    2300010: pupils
+    2300012: scarf
+    3300000: arms
+    3300002: blue
+    3300004: body
+    3300006: eyeballs
+    3300008: head
+    3300010: pupils
+    3300012: scarf
+    4300000: head
+    4300002: blue
+    4300004: scarf
+    4300006: arms
+    4300008: eyeballs
+    4300010: body
+    4300012: pupils
+    9500000: //RootNode
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arms_mtl
+    second: {fileID: 2100000, guid: 774c845c6ea23a44898b079cd07440b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_mtl
+    second: {fileID: 2100000, guid: e06801a9bc07d334c8208b48017af9b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_mtl
+    second: {fileID: 2100000, guid: 3beb45a38e9d0e742b40fe8bdf3b52ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeballs_mtl
+    second: {fileID: 2100000, guid: 80a16d574a11e8947831db639b85a033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head_mtl
+    second: {fileID: 2100000, guid: 27aeebc458048fd4dbd48efd9f1826cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pupils_mtl
+    second: {fileID: 2100000, guid: 462902f9edbeceb40993c76faf7467cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scarf_mtl
+    second: {fileID: 2100000, guid: a37348f25f443ac4a8d439d38c73c063, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
